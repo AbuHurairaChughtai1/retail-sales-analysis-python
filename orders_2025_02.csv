@@ -1,0 +1,304 @@
+﻿Order ID,Order Date,Customer ID,SKU,Product Name,Category,Quantity,Unit Price,Discount %,Order Status,Sales Channel,Order City,Payment Method
+ORD-202502-0001,2025-02-02,C0244,SOAP-302,Herbal Soap,Beauty,12,Rs 294.00,30,Completed,Marketplace,Sialkot,Wallet
+ORD-202502-0002,15/02/2025,C0015,CREAM-301,Face Cream,Beauty,2,"Rs 1,375.00",10,Completed,Online,Hyderabad,Cash
+ORD-202502-0003,23/02/2025,c0080 ,MARKER-403,Marker Set,Stationery,3,441.00,0,Completed,Store C,Multan,Cash
+ORD-202502-0004,13/02/2025, C0282 ,PEN-401,Ballpoint Pen Pack,Stationery,1,231.00,15,Completed,Store A,Gujranwala,Card
+ORD-202502-0005,02-18-2025,C0278,MARKER-403,Marker Set,Stationery,1,Rs 490.00,15,Completed,Store A,Hyderabad,Card
+ORD-202502-0006,2025-02-03,C0190,LAMP-102,Desk Lamp,Home,1,2205.00,25,Completed,Store C,Rawalpindi,Card
+ORD-202502-0007,02-16-2025,C0136,KEYBOARD-203,Keyboard,Electronics,2,"3,360.00",0,Completed,Store A,Karachi,Bank Transfer
+ORD-202502-0008,02-14-2025,C0048,LAMP-102,Desk Lamp,Home,3,"Rs 2,572.50",0,Cancelled,Marketplace,Rawalpindi,Card
+ORD-202502-0009,15/02/2025,C0278,TOWEL-104, BATH TOWEL ,Home,3,950.00,10,Completed,Store B,Faisalabad,Wallet
+ORD-202502-0010,21/02/2025,C0284,BALL-504,Training Ball,Sports,25,"Rs 1,600.00",25,Completed,Marketplace,Islamabad,Cash
+ORD-202502-0011,06/02/2025,C0165,MAT-502,Yoga Mat,Sports,1,3025.00,20,Completed,Store B,Lahore,Card
+ORD-202502-0012,2025-02-11,C0215,CABLE-201,USB Cable,Electronics,1,Rs 450.00,10,Completed,Online,Rawalpindi,Wallet
+ORD-202502-0013,09/02/2025,C0298,SERUM-303,Vitamin Serum,Beauty,2,"1,575.00",30,Completed,Store B,Faisalabad,Wallet
+ORD-202502-0014,18/02/2025,C0298,MUG-101,Ceramic Mug,Home,1,585.00,0,Completed,Online,Hyderabad,Wallet
+ORD-202502-0015,17/02/2025,c0010 ,FOLDER-404,Document Folder,Stationery,1,Rs 180.00,20,completed ,Marketplace,Hyderabad,Card
+ORD-202502-0016,24/02/2025,C0217,TOWEL-104,Bath Towel,Home,1,-,10,Completed,Store A,Gujranwala,Card
+ORD-202502-0017,2025-02-12,,CHARGER-204,Fast Charger,Electronics,3,TBD,15,Cancelled,Store C,Peshawar,Card
+ORD-202502-0018,12/02/2025,C0117,SERUM-303,Vitamin Serum,Beauty,4,1750.00,15,Completed,Marketplace,Lahore,Cash
+ORD-202502-0019,2025-02-13,C0347, sheet-103 ,Cotton Bedsheet,Home,1,"3,850.00",unknown,Completed,Store B,Rawalpindi,Wallet
+ORD-202502-0020,28/02/2025,C0109,LAMP-102,Desk Lamp,Home,3,"Rs 2,450.00",25,Completed,Store C,Faisalabad,Bank Transfer
+ORD-202502-0021,2025-02-03,C0230,SHAMPOO-304,Daily Shampoo,Beauty,6,Rs 858.00,0,Completed,Store C,Islamabad,Bank Transfer
+ORD-202502-0022,15/02/2025,C0110,KEYBOARD-203,Keyboard,Electronics,1,TBD,25,,Store B,Gujranwala,Card
+ORD-202502-0023,04/02/2025,C0002, cream-301 ,Face Cream,Beauty,2,1125.00,5,cancelled ,Store B,Lahore,Wallet
+ORD-202502-0024,16/02/2025,C0366,BAND-503,Resistance Band,Sports,2,Rs 621.00,10,Completed,Online,Gujranwala,Card
+ORD-202502-0025,2025-02-22,C0035,CREAM-301,Face Cream,Beauty,1,"1,250.00",20,Completed,Store C,Islamabad,Wallet
+ORD-202502-0026,22/02/2025,C0282,CREAM-301,Face Cream,Beauty,3,"Rs 1,250.00",0,Cancelled,Marketplace,Lahore,Bank Transfer
+ORD-202502-0027,15/02/2025,C0174,BALL-504,Training Ball,Sports,3,-,0,Completed,Store B,Islamabad,Cash
+ORD-202502-0028,10/02/2025,C0374,NOTEBOOK-402,Notebook,Stationery,3,Rs 385.00,0,Completed,Store C,Multan,Card
+ORD-202502-0029,2025-02-18,C0182,SERUM-303,Vitamin Serum,Beauty,4,"1,750.00",15,Completed,Marketplace,Karachi,Bank Transfer
+ORD-202502-0030,24/02/2025,C0393,PEN-401,Ballpoint Pen Pack,Stationery,2,231.00,0,Completed,Store B,Karachi,Wallet
+ORD-202502-0031,26/02/2025,C0091,MAT-502,Yoga Mat,Sports,1,"2,475.00",25,Completed,Store B,Hyderabad,Bank Transfer
+ORD-202502-0032,02-01-2025, C0394 ,MOUSE-202,Wireless Mouse,Electronics,2,"Rs 1,942.50",15,Completed,Online,Lahore,Bank Transfer
+ORD-202502-0033,21/02/2025,C0012,BALL-504,Training Ball,Sports,2,"1,760.00",0,Completed,Online,Gujranwala,Cash
+ORD-202502-0034,02-25-2025,C0300,LAMP-102,Desk Lamp,Home,2,"Rs 2,450.00",20,Completed,Marketplace,Rawalpindi,Card
+ORD-202502-0035,15/02/2025,C0015,CABLE-201,USB Cable,Electronics,1,472.50,10,Completed,Marketplace,Rawalpindi,Bank Transfer
+ORD-202502-0036,02/02/2025,C0244,PEN-401,Ballpoint Pen Pack,Stationery,3,198.00,0,Completed,Store C,,Cash
+ORD-202502-0037,23/02/2025,C0086,KEYBOARD-203,Keyboard,Electronics,two,"Rs 3,200.00",,Completed,Store A,,Card
+ORD-202502-0038,18/02/2025,C0101,BALL-504,Training Ball,Sports,3,"Rs 1,760.00",5,Completed,Store B,Multan,Card
+ORD-202502-0039,15/02/2025,C0223,MUG-101,Ceramic Mug,Home,1,Rs 585.00,25,Completed,Store B,Lahore,Cash
+ORD-202502-0040,26/02/2025,C0188,MOUSE-202,Wireless Mouse,Electronics,3,2035.00,0,Completed,Online,Sialkot,Cash
+ORD-202502-0041,09/02/2025,C0088,BOTTLE-501,Sports Bottle,Sports,5,935.00,0,Completed, store a ,Peshawar,Wallet
+ORD-202502-0042,2025-02-20,C0372,SHEET-103,Cotton Bedsheet,Home,2,3850.00,20,Completed,Marketplace,Islamabad,Cash
+ORD-202502-0043,2025-02-02,C0087,MUG-101,Ceramic Mug,Home,2,Rs 682.50,unknown,Cancelled,Marketplace,,Card
+ORD-202502-0044,02-26-2025,C0031,MUG-101,Ceramic Mug,Home,5,Rs 682.50,25,Completed,Online,Gujranwala,Card
+ORD-202502-0045,,C0138,FOLDER-404,Document Folder,Stationery,1,198.00,5,Completed,Marketplace,Peshawar,Card
+ORD-202502-0046,02-16-2025,C0323,BALL-504,Training Ball,Sports,1,"Rs 1,600.00",20,Completed,Store B,Hyderabad,Wallet
+ORD-202502-0047,16/02/2025,C0245,NOTEBOOK-402,Notebook,stationery ,2,315.00,0,Pending,Store B,Islamabad,Card
+ORD-202502-0048,13/02/2025,C0320,SHEET-103,Cotton Bedsheet,Home,1,TBD,20,Completed,Store B,Lahore,Card
+ORD-202502-0049,2025-02-19,C0311,SHEET-103,Cotton Bedsheet,Home,1,3850.00,5,Completed,Store B,Hyderabad,Bank Transfer
+ORD-202502-0050,05/02/2025,C0106,SOAP-302,Herbal Soap,Beauty,2,Rs 294.00,0,Completed,Online,Gujranwala,Wallet
+ORD-202502-0051,02-18-2025,C0228,CABLE-201,USB Cable,Electronics,2,Rs 405.00,30,Completed,Store B,Rawalpindi,Cash
+ORD-202502-0052,24/02/2025,C0218,KEYBOARD-203,Keyboard,Electronics,4,"Rs 3,200.00",15,Pending,Store B,Gujranwala,Card
+ORD-202502-0053,01/02/2025,C0297,CABLE-201,USB Cable,Electronics,2,TBD,25,Completed,Store C,Islamabad,Wallet
+ORD-202502-0054,05/02/2025,C0013,SERUM-303,Vitamin Serum,Beauty,2,-,,Completed,Store A,Hyderabad,Cash
+ORD-202502-0055,09/02/2025,C0371,MUG-101, CERAMIC MUG ,Home,2,682.50,20,Completed,Store A,Rawalpindi,Wallet
+ORD-202502-0056,25/02/2025,C0364,PEN-401,,Stationery,2,242.00,20,Completed,Store C,Hyderabad,Card
+ORD-202502-0057,02/02/2025,C0079,MUG-101,Ceramic Mug,Home,2,715.00,20,Completed,Online,Peshawar,Cash
+ORD-202502-0058,2025-02-02,C0103,FOLDER-404,Document Folder,Stationery,1,TBD,15,Completed,Store C,Gujranwala,Cash
+ORD-202502-0059,12/02/2025,C0352,BALL-504,Training Ball,Sports,2,"Rs 1,600.00",0,Completed,Online,Karachi,Card
+ORD-202502-0060,2025-02-20,C0394,CHARGER-204,Fast Charger,Electronics,2,"1,890.00",10,Completed,Store B,Islamabad,Wallet
+ORD-202502-0061,10/02/2025,C0338,MARKER-403,Marker Set,Stationery,1,Rs 514.50,15,Completed,Marketplace,Multan,Card
+ORD-202502-0062,07/02/2025,C0361,SHAMPOO-304,Daily Shampoo,Beauty,2,819.00,5,Completed,Store C,,Wallet
+ORD-202502-0063,21/02/2025,C0042,CREAM-301,Face Cream,Beauty,3,-,5,Completed,Store B,,Card
+ORD-202502-0064,02-09-2025,c0381 ,SERUM-303,Vitamin Serum,Beauty,1,"1,750.00",30,Completed, marketplace ,,Cash
+ORD-202502-0065,16/02/2025,C0178,BALL-504,Training Ball,Sports,1,"1,760.00",20,Completed,Store A,Sialkot,Cash
+ORD-202502-0066,03/02/2025,C0388,CHARGER-204,Fast Charger,Electronics,4,"2,100.00",15,Pending,Online,Sialkot,Bank Transfer
+ORD-202502-0067,2025-02-07,C0050,SERUM-303,Vitamin Serum,Beauty,0,"Rs 1,925.00",20,Completed,Online,Rawalpindi,Wallet
+ORD-202502-0068,02-15-2025,C0155, bottle-501 ,Sports Bottle,Sports,1,850.00,10,Completed,Store B,Lahore,Cash
+ORD-202502-0069,27/02/2025,C0198,MARKER-403,Marker Set,Stationery,4,490.00,10,Completed,Marketplace,Karachi,Cash
+ORD-202502-0070,2025-02-13,C0229,MUG-101,Ceramic Mug,Home,1,650.00,0,Completed,Online,Hyderabad,Wallet
+ORD-202502-0071,20/02/2025,C0320,FOLDER-404,Document Folder,Stationery,2,Rs 180.00,0,Completed,Store A,Faisalabad,Bank Transfer
+ORD-202502-0072,08/02/2025,C0296,BALL-504,Training Ball,Sports,4,"Rs 1,760.00",30,Completed,Marketplace,Lahore,Card
+ORD-202502-0073,2025-02-14,C0210,BOTTLE-501,Sports Bottle,Sports,1,850.00,5,Completed,Store B,Rawalpindi,Wallet
+ORD-202502-0074,22/02/2025,C0374,CABLE-201,USB Cable,Electronics,1,495.00,20,Completed,Marketplace,Peshawar,Cash
+ORD-202502-0075,01/02/2025,C0264,NOTEBOOK-402,Notebook,Stationery,1,Rs 367.50,10,Completed,Store C,Hyderabad,Wallet
+ORD-202502-0076,02-19-2025,C0269,BAND-503,Resistance Band,Sports,2,690.00,0,Completed, online ,,Cash
+ORD-202502-0077,20/02/2025,C0023,SHEET-103,Cotton Bedsheet,Home,1,"Rs 3,850.00",0,Completed,Marketplace,Hyderabad,Card
+ORD-202502-0078,02-25-2025, C0125 ,MARKER-403,Marker Set,Stationery,,Rs 490.00,10,Cancelled,Store B,Lahore,Wallet
+ORD-202502-0079,2025-02-07,C0108,SOAP-302,Herbal Soap,beauty ,3,280.00,10,Completed,Online,Multan,Bank Transfer
+ORD-202502-0080,02-25-2025,C0367,PEN-401,Ballpoint Pen Pack,Stationery,3,220.00,0,Completed,Store B,Multan,Wallet
+ORD-202502-0081,02-13-2025,C0249,MUG-101,Ceramic Mug,Home,5,585.00,0,Completed,Online,Peshawar,Card
+ORD-202502-0082,23/02/2025,C0128,SHEET-103,Cotton Bedsheet,Home,2,"Rs 3,850.00",25,Completed,Marketplace,Faisalabad,Bank Transfer
+ORD-202502-0083,07/02/2025,C0229,NOTEBOOK-402,Notebook,Stationery,1,TBD,20,Completed,Store B,,Bank Transfer
+ORD-202502-0084,22/02/2025,C0134,SERUM-303,Vitamin Serum,Beauty,4,1750.00,10,Completed,Store B,Hyderabad,Card
+ORD-202502-0085,2025-02-13,C0047,NOTEBOOK-402,Notebook,Stationery,1,385.00,0,Completed,Store A,Sialkot,Bank Transfer
+ORD-202502-0086,16/02/2025,C0117,BAND-503,Resistance Band,sports ,2,621.00,25,Completed,Store B,Karachi,Bank Transfer
+ORD-202502-0087,2025-02-17,C0067,FOLDER-404,Document Folder,Stationery,1,Rs 180.00,10,Completed,Marketplace,Hyderabad,Card
+ORD-202502-0088,02-15-2025,C0088,MAT-502,Yoga Mat,Sports,2,"Rs 2,750.00",0,Completed,Store A,Rawalpindi,Card
+ORD-202502-0089,25/02/2025,C0318,LAMP-102,Desk Lamp,Home,1,"Rs 2,450.00",10,Completed,Marketplace,Faisalabad,Bank Transfer
+ORD-202502-0090,11/02/2025,C0328,SERUM-303,Vitamin Serum,Beauty,5,"Rs 1,750.00",0,Completed,Online,Islamabad,Card
+ORD-202502-0091,16/02/2025,C0364,TOWEL-104,Bath Towel,Home,3,950.00,0,Completed,Online,Islamabad,Cash
+ORD-202502-0092,2025-02-24,C0036,TOWEL-104,Bath Towel,Home,2,855.00,0,Completed,Store C,Islamabad,Bank Transfer
+ORD-202502-0093,2025-02-16,C0093, cable-201 ,USB Cable,Electronics,6,450.00,10,Completed,Online,Lahore,Card
+ORD-202502-0094,01/02/2025,C0368,MOUSE-202,Wireless Mouse,Electronics,2,1850.00,30,Completed,Marketplace,Faisalabad,Cash
+ORD-202502-0095,12/02/2025,C0062,BOTTLE-501,Sports Bottle,Sports,6,Rs 850.00,25,Completed,Store A,Gujranwala,Cash
+ORD-202502-0096,21/02/2025,C0297,MUG-101,Ceramic Mug,Home,4,715.00,5,Completed,Store A,Multan,Cash
+ORD-202502-0097,21/02/2025,C0292,CABLE-201,USB Cable,Electronics,2,405.00,10,Completed,Store C,Islamabad,Card
+ORD-202502-0098,07/02/2025,C0049,SOAP-302,Herbal Soap,Beauty,5,252.00,15,Completed,Online,Lahore,Wallet
+ORD-202502-0099,14/02/2025,C0379,TOWEL-104,Bath Towel,Home,2,855.00,30,Completed,Marketplace,Hyderabad,Bank Transfer
+ORD-202502-0100,22/02/2025,C0352,BOTTLE-501,Sports Bottle,Sports,1,Rs 850.00,0,Completed,Store C,Multan,Cash
+ORD-202502-0101,15/02/2025,C0240,SHAMPOO-304,Daily Shampoo,Beauty,3,819.00,0,Pending,Store C,Multan,Cash
+ORD-202502-0102,19/02/2025,C0165,SHAMPOO-304,Daily Shampoo,Beauty,1,Rs 780.00,20,Cancelled,Marketplace,Peshawar,Wallet
+ORD-202502-0103,02-04-2025,C0268,CREAM-301,Face Cream,Beauty,1,"1,250.00",0,Completed,Online,Islamabad,Cash
+ORD-202502-0104,07/02/2025,C0287,PEN-401,Ballpoint Pen Pack,Stationery,3,220.00,15,Completed,Marketplace,Sialkot,Cash
+ORD-202502-0105,26/02/2025,C0016,SERUM-303,Vitamin Serum,Beauty,1,"1,575.00",0,Completed,Marketplace,Peshawar,Card
+ORD-202502-0106,2025-02-28,C0096,CABLE-201,USB Cable,Electronics,12,472.50,5,Completed,Store A,Lahore,Bank Transfer
+ORD-202502-0107,02-16-2025,C0141,MAT-502,Yoga Mat,Sports,4,"Rs 2,750.00",10,Completed,Store B,Islamabad,Bank Transfer
+ORD-202502-0108,21/02/2025,C0154,BALL-504,Training Ball,Sports,3,"Rs 1,600.00",0,Completed,Online,Rawalpindi,Wallet
+ORD-202502-0109,18/02/2025,C0232,BALL-504,Training Ball,Sports,2,"1,600.00",0,Completed,Marketplace,Sialkot,Cash
+ORD-202502-0110,11/02/2025,C0175,NOTEBOOK-402,Notebook,Stationery,4,Rs 350.00,25,Completed,Store B,Sialkot,Card
+ORD-202502-0111,2025-02-13,C0174,KEYBOARD-203,Keyboard,Electronics,2,"Rs 3,200.00",10,Completed,Online,Hyderabad,Cash
+ORD-202502-0112,14/02/2025,C0160,MAT-502,Yoga Mat,sports ,2,"Rs 2,475.00",10,Completed,Store A,Faisalabad,Cash
+ORD-202502-0113,2025-02-19,C0048,NOTEBOOK-402,Notebook,Stationery,2,315.00,0,Completed,Store C,Faisalabad,Wallet
+ORD-202502-0114,09/02/2025,C0183,MAT-502,Yoga Mat,Sports,2,"Rs 2,887.50",15,Cancelled,Store B,Hyderabad,Cash
+ORD-202502-0115,2025-02-18,C0387,SHEET-103,Cotton Bedsheet,Home,1,"4,042.50",0,Completed,Marketplace,Hyderabad,Card
+ORD-202502-0116,23/02/2025, C0096 ,BAND-503,Resistance Band,Sports,2,Rs 759.00,15,Completed,Store A,Hyderabad,Cash
+ORD-202502-0117,10/02/2025,C0333,PEN-401,Ballpoint Pen Pack,Stationery,12,220.00,15,Pending,Store C,Peshawar,Cash
+ORD-202502-0118,06/02/2025,C0331,MOUSE-202,Wireless Mouse,Electronics,2,"1,850.00",20,Completed,Store B,,Bank Transfer
+ORD-202502-0119,25/02/2025,C0111,TOWEL-104,Bath Towel,Home,1,950.00,25,Completed,Online,Rawalpindi,Card
+ORD-202502-0120,not recorded,C0050,MUG-101,Ceramic Mug,home ,3,Rs 715.00,30,Completed,Store A,Hyderabad,Wallet
+ORD-202502-0121,12/02/2025,C0008,TOWEL-104,Bath Towel,Home,4,855.00,20,Completed,Marketplace,Multan,Cash
+ORD-202502-0122,19/02/2025,C0211,PEN-401,Ballpoint Pen Pack,Stationery,25,Rs 242.00,30,Completed,Marketplace,Hyderabad,Card
+ORD-202502-0123,02-26-2025,C0014,BAND-503,Resistance Band,Sports,1,759.00,25,Completed,Store B,Sialkot,Wallet
+ORD-202502-0124,01/02/2025,C0287, mouse-202 ,,Electronics,2,"Rs 1,942.50",30,Completed,Store A,Karachi,Card
+ORD-202502-0125,07/02/2025,C0254,MARKER-403,Marker Set,Stationery,2,Rs 490.00,10,Completed,Online,Hyderabad,Card
+ORD-202502-0126,22/02/2025,C0130,CABLE-201,USB Cable,Electronics,4,Rs 405.00,10,Completed,Marketplace,Faisalabad,Wallet
+ORD-202502-0127,09/02/2025,C0076,MOUSE-202,Wireless Mouse,Electronics,1,1942.50,20,Completed,Store A,Peshawar,Wallet
+ORD-202502-0128,02-02-2025,C0227,BALL-504,Training Ball,Sports,3,"1,680.00",0,Completed,Store B,Karachi,Wallet
+ORD-202502-0129,2025-02-02,C0300,MUG-101,Ceramic Mug,Home,4,682.50,0,Completed,Online,Rawalpindi,Card
+ORD-202502-0130,07/02/2025,C0007,CREAM-301,Face Cream,Beauty,4,1375.00,30,Completed,Store C,Faisalabad,Wallet
+ORD-202502-0131,28/02/2025,C0373,SHAMPOO-304,Daily Shampoo,Beauty,1,858.00,5,Cancelled,Online,Multan,Card
+ORD-202502-0132,26/02/2025,C0107,LAMP-102,Desk Lamp,Home,1,2450.00,15,Completed,Store C,Faisalabad,Wallet
+ORD-202502-0133,14/02/2025,C0308,LAMP-102,Desk Lamp,Home,6,"2,205.00",0,Pending,Store B,Multan,Card
+ORD-202502-0134,06/02/2025,C0078, lamp-102 ,Desk Lamp,Home,1,2205.00,0,Completed,Store C,Rawalpindi,Bank Transfer
+ORD-202502-0135,21/02/2025,C0044,CREAM-301,Face Cream,Beauty,1,"1,375.00",20,Completed,Store B,Rawalpindi,Cash
+ORD-202502-0136,18/02/2025,C0095,SHEET-103,Cotton Bedsheet,Home,3,"3,850.00",5,Completed,Online,Lahore,Wallet
+ORD-202502-0137,2025-02-18,C0156,BOTTLE-501, SPORTS BOTTLE ,Sports,1,935.00,20,Pending,Store A,Islamabad,Bank Transfer
+ORD-202502-0138,2025-02-06,c0395 ,LAMP-102,Desk Lamp,Home,1,"2,695.00",20,Completed,Marketplace,Karachi,Bank Transfer
+ORD-202502-0139,23/02/2025,C0241,MOUSE-202,Wireless Mouse,Electronics,2,"1,665.00",10,Completed,Store C,Sialkot,Card
+ORD-202502-0140,14/02/2025,C0285,FOLDER-404,Document Folder,Stationery,1,189.00,5,Completed,Online,Gujranwala,Cash
+ORD-202502-0141,06/02/2025,C0014,BAND-503,Resistance Band,Sports,4,621.00,10,Completed,Store A,Rawalpindi,Bank Transfer
+ORD-202502-0142,22/02/2025,C0060,LAMP-102,Desk Lamp,Home, 5 ,TBD,0,Completed,Online,Multan,Cash
+ORD-202502-0143,12/02/2025,C0043,CABLE-201,USB Cable,Electronics,2,Rs 405.00,10,Completed,Store A,Islamabad,Bank Transfer
+ORD-202502-0144,2025-02-16,C0096,CHARGER-204,Fast Charger,Electronics,3,"Rs 2,100.00",10,Completed,Store C,Lahore,Bank Transfer
+ORD-202502-0145,06/02/2025,C0376,NOTEBOOK-402,Notebook,Stationery,2,Rs 350.00,30,Completed,Store B,Multan,Wallet
+ORD-202502-0146,11/02/2025,,SOAP-302,,Beauty,6,280.00,5,Completed,Online,Peshawar,Cash
+ORD-202502-0147,09/02/2025,C0050,SHAMPOO-304,Daily Shampoo,Beauty,1,Rs 780.00,0,Completed,Marketplace,Peshawar,Wallet
+ORD-202502-0148,12/02/2025,, cream-301 ,Face Cream,Beauty,2,TBD,5,Completed,Online,Hyderabad,Card
+ORD-202502-0149,2025-02-18,C0011,CABLE-201,USB Cable,Electronics,2,Rs 450.00,10%,Completed,Store B,Sialkot,Wallet
+ORD-202502-0150,05/02/2025,C0116, mat-502 ,Yoga Mat,Sports,3,"Rs 2,750.00",0,Cancelled,Online,Islamabad,Wallet
+ORD-202502-0151,28/02/2025,C0244,CHARGER-204,Fast Charger,Electronics,3,1890.00,25,Completed,Store A,Faisalabad,Cash
+ORD-202502-0152,15/02/2025,C0341,CHARGER-204,Fast Charger,Electronics,2,"2,310.00",5,Pending,Store B,Islamabad,Cash
+ORD-202502-0153,16/02/2025, C0128 ,BAND-503,Resistance Band,Sports,2,Rs 621.00,10,Completed,Online,Rawalpindi,Wallet
+ORD-202502-0154,05/02/2025,C0004,CABLE-201,USB Cable,Electronics,3,405.00,20,Completed,Online,Gujranwala,Wallet
+ORD-202502-0155,2025-02-27,C0326,FOLDER-404,Document Folder,Stationery,2,Rs 162.00,25,Completed,Online,Karachi,Card
+ORD-202502-0156,05/02/2025,C0064, pen-401 , BALLPOINT PEN PACK ,Stationery,2,220.00,20,Completed,Marketplace,Rawalpindi,Wallet
+ORD-202502-0157,2025-02-01,C0344,MOUSE-202, WIRELESS MOUSE ,Electronics,3,TBD,10,Completed,Marketplace,Lahore,Bank Transfer
+ORD-202502-0158,24/02/2025,C0145,KEYBOARD-203,Keyboard,Electronics,1,"3,360.00",0,Completed,Online,,Wallet
+ORD-202502-0159,2025-02-06,C0315,LAMP-102,Desk Lamp,Home,3,"2,695.00",25,Completed,Marketplace,Lahore,Wallet
+ORD-202502-0160,02-05-2025,C0329,SERUM-303,Vitamin Serum,Beauty,2,1575.00,30,Completed,Store B,Karachi,Card
+ORD-202502-0161,14/02/2025,C0118,PEN-401,Ballpoint Pen Pack,Stationery,,Rs 220.00,0,Completed,Store B,Faisalabad,Cash
+ORD-202502-0162,15/02/2025,C0175,NOTEBOOK-402,Notebook,Stationery,3,350.00,0,Completed,Marketplace,Sialkot,Cash
+ORD-202502-0163,03/02/2025,C0278,SERUM-303,Vitamin Serum,Beauty,6,1750.00,20,Completed,Store A,Rawalpindi,Wallet
+ORD-202502-0164,12/02/2025,C0038,SERUM-303,Vitamin Serum,Beauty,4,1925.00,0,Completed,Marketplace,Gujranwala,Bank Transfer
+ORD-202502-0165,23/02/2025,C0337,CREAM-301,Face Cream,Beauty,25,"1,312.50",10, COMPLETED,Marketplace,,Cash
+ORD-202502-0166,2025-02-15,C0320,MOUSE-202,Wireless Mouse,Electronics,2,1850.00,20,Completed,Store C,Hyderabad,Cash
+ORD-202502-0167,08/02/2025,C0153,MARKER-403,Marker Set,Stationery,1,490.00,30,Completed,Store B,Islamabad,Cash
+ORD-202502-0168,03/02/2025,C0357,PEN-401,Ballpoint Pen Pack,Stationery,1,Rs 242.00,15,Completed,Store C,Faisalabad,Card
+ORD-202502-0169,2025-02-10,C0377,BALL-504,Training Ball,Sports,2,"1,440.00",0,Completed,Store A,Faisalabad,Card
+ORD-202502-0170,02/02/2025,C0096,KEYBOARD-203,Keyboard,Electronics,3,"3,520.00",10,Completed,Store A,Rawalpindi,Bank Transfer
+ORD-202502-0171,26/02/2025,C0087,PEN-401,Ballpoint Pen Pack,Stationery,1,Rs 220.00,0,Completed,Store C,Hyderabad,Card
+ORD-202502-0172,13/02/2025,c0162 ,SOAP-302,Herbal Soap,Beauty,2,Rs 294.00,15,Completed,Online,Faisalabad,Bank Transfer
+ORD-202502-0173,2025-02-23,C0075,SERUM-303,Vitamin Serum,Beauty,1,1837.50,25,Completed,Store B,Peshawar,Card
+ORD-202502-0174,26/02/2025,C0260,NOTEBOOK-402,Notebook,Stationery,2,Rs 367.50,0,Completed,Store B,Faisalabad,Wallet
+ORD-202502-0175,24/02/2025,C0361,MAT-502,Yoga Mat,Sports,1,"Rs 2,475.00",0,Completed,Store C,Peshawar,Cash
+ORD-202502-0176,02-07-2025,C0018,MUG-101,Ceramic Mug,Home,1,715.00,10,Completed, marketplace ,Gujranwala,Bank Transfer
+ORD-202502-0177,2025-02-10,C0286,SHAMPOO-304,Daily Shampoo,Beauty,12,819.00,10,Completed,Marketplace,Sialkot,Card
+ORD-202502-0178,20/02/2025,C0017,SHAMPOO-304,Daily Shampoo,Beauty,2,Rs 780.00,0,Pending,Store B,Gujranwala,Cash
+ORD-202502-0179,15/02/2025,C0260,PEN-401,Ballpoint Pen Pack,Stationery,2,-,10,Completed,Store C,Faisalabad,Bank Transfer
+ORD-202502-0180,27/02/2025,C0202,NOTEBOOK-402,Notebook,Stationery,5,385.00,unknown,Pending,Marketplace,Gujranwala,Card
+ORD-202502-0181,2025-02-14,C0250, notebook-402 ,Notebook,Stationery,1,Rs 367.50,0,Cancelled,Marketplace,Multan,Wallet
+ORD-202502-0182,02/02/2025,C0284,SHAMPOO-304,Daily Shampoo,Beauty,1,Rs 858.00,15,Completed,Store B,Hyderabad,Card
+ORD-202502-0183,12/02/2025,C0081,SOAP-302, HERBAL SOAP ,Beauty,4,308.00,0,Completed,Store C,Hyderabad,Wallet
+ORD-202502-0184,2025-02-06,C0230,PEN-401,Ballpoint Pen Pack,Stationery,2,Rs 231.00,10,Cancelled,Store A,Islamabad,Wallet
+ORD-202502-0185,2025-02-20,C0361,MUG-101,Ceramic Mug,Home,3,650.00,10,Completed,Store B,Gujranwala,Bank Transfer
+ORD-202502-0186,07/02/2025,C0072,SHEET-103,Cotton Bedsheet,Home,4,"4,042.50",5,Pending,Store A,Gujranwala,Bank Transfer
+ORD-202502-0187,17/02/2025,C0150,SOAP-302,Herbal Soap,Beauty,3,280.00,0,Completed,Marketplace,Multan,Cash
+ORD-202502-0188,18/02/2025,C0205,MAT-502,Yoga Mat,Sports,2,2750.00,5,Completed,Store A,Rawalpindi,Bank Transfer
+ORD-202502-0189,2025-02-03,C0093,BAND-503,Resistance Band,Sports,2,Rs 690.00,0,Cancelled,Online,Gujranwala,Wallet
+ORD-202502-0190,2025-02-05,C0055,PEN-401,Ballpoint Pen Pack,Stationery,0,Rs 231.00,15,Completed,Online,Faisalabad,Bank Transfer
+ORD-202502-0191,2025-02-22,C0295, ball-504 ,Training Ball,Sports,,1680.00,0,Completed,Online,Multan,Wallet
+ORD-202502-0192,20/02/2025,C0213,LAMP-102,Desk Lamp,Home,2,"Rs 2,572.50",15,Completed,Store B,,Card
+ORD-202502-0193,02/02/2025,C0161,MARKER-403,Marker Set,Stationery,2,539.00,30,Completed,Marketplace,,Bank Transfer
+ORD-202502-0194,06/02/2025,C0256,BOTTLE-501,Sports Bottle,Sports,6,765.00,20,Completed,Marketplace,Islamabad,Card
+ORD-202502-0195,20/02/2025,C0274,MUG-101,Ceramic Mug,Home,4,Rs 682.50,0,Completed,Store B,Sialkot,Card
+ORD-202502-0196,04/02/2025,C0107,NOTEBOOK-402,Notebook,Stationery,3,Rs 350.00,25,Completed,Store A,Peshawar,Bank Transfer
+ORD-202502-0197,08/02/2025,C0012,FOLDER-404,Document Folder,Stationery,4,Rs 180.00,10,Completed,Store B,Multan,Card
+ORD-202502-0198,26/02/2025,C0062,BAND-503,Resistance Band,Sports,2,Rs 621.00,0,Completed,Store B,Peshawar,Bank Transfer
+ORD-202502-0199,21/02/2025,C0246,CHARGER-204,Fast Charger,Electronics,3,2100.00,10,Completed,Store A,Sialkot,Card
+ORD-202502-0200,02-22-2025,C0323,SERUM-303,Vitamin Serum,Beauty,2,1750.00,0,Completed,Store B,Sialkot,Bank Transfer
+ORD-202502-0201,27/02/2025,C0212,SERUM-303,Vitamin Serum,Beauty,1,"Rs 1,750.00",5,Cancelled,Online,Faisalabad,Cash
+ORD-202502-0202,04/02/2025,C0159,SHAMPOO-304,Daily Shampoo,Beauty,2,780.00,0,Completed,Online,Peshawar,Cash
+ORD-202502-0203,02-09-2025,C0143,SERUM-303,Vitamin Serum,beauty ,1,1925.00,0,Completed,Store C,Islamabad,Bank Transfer
+ORD-202502-0204,25/02/2025,C0273,FOLDER-404,Document Folder,Stationery,3,TBD,0,Cancelled,Store A,Karachi,Wallet
+ORD-202502-0205,27/02/2025,C0133,BAND-503,Resistance Band,Sports,6,690.00,25,Completed,Store C,Peshawar,Cash
+ORD-202502-0206,07/02/2025,C0152,MARKER-403,Marker Set,Stationery,6,Rs 490.00,0,Completed,Store C,Rawalpindi,Bank Transfer
+ORD-202502-0207,2025-02-11, C0330 ,CABLE-201,USB Cable,Electronics,2,405.00,30,Completed,Store B,Faisalabad,Card
+ORD-202502-0208,14/02/2025,C0162,BOTTLE-501,Sports Bottle,Sports,6,935.00,0,Completed,Online,Rawalpindi,Bank Transfer
+ORD-202502-0209,04/02/2025,C0159,FOLDER-404,Document Folder,Stationery,2,180.00,10,Completed,Marketplace,Hyderabad,Bank Transfer
+ORD-202502-0210,23/02/2025,C0143,PEN-401,Ballpoint Pen Pack,Stationery,4,Rs 198.00,5,Pending,Store B,Sialkot,Bank Transfer
+ORD-202502-0211,2025-02-27,C0130,BAND-503,Resistance Band,Sports,2,Rs 759.00,10,Completed,Store B,Karachi,Card
+ORD-202502-0212,14/02/2025,C0200,CREAM-301,Face Cream,Beauty,5,1250.00,25,Cancelled,Store B,Hyderabad,Bank Transfer
+ORD-202502-0213,19/02/2025,C0288,BALL-504,Training Ball,Sports,3,"1,760.00",5,Completed,Store B,Peshawar,Cash
+ORD-202502-0214,21/02/2025,C0029, band-503 ,Resistance Band,Sports,2,724.50,15,Completed,Store B,Hyderabad,Card
+ORD-202502-0215,02-09-2025,C0175,MARKER-403,Marker Set,Stationery,2,441.00,0,Pending,Store B,Lahore,Card
+ORD-202502-0216,10/02/2025,C0046,SHEET-103,Cotton Bedsheet,Home,4,4042.50,5,Completed,Online,Hyderabad,Bank Transfer
+ORD-202502-0217,06/02/2025,C0166,SOAP-302,Herbal Soap,Beauty,5,Rs 252.00,5,Completed,Store B,Faisalabad,Cash
+ORD-202502-0218,28/02/2025,C0066,KEYBOARD-203,Keyboard,Electronics,4,"Rs 3,520.00",0,Completed,Store B,Hyderabad,Card
+ORD-202502-0219,21/02/2025,C0269,MARKER-403,Marker Set,Stationery,1,Rs 514.50,0,Completed,Store B,Sialkot,Bank Transfer
+ORD-202502-0220,02/02/2025,C0066,PEN-401,Ballpoint Pen Pack,Stationery,3,231.00,10,Completed,Marketplace,Gujranwala,Bank Transfer
+ORD-202502-0221,02/02/2025,C0294,SHAMPOO-304,Daily Shampoo,Beauty,1,819.00,30,Completed,Store B,Gujranwala,Wallet
+ORD-202502-0222,08/02/2025, C0392 ,CHARGER-204,Fast Charger,Electronics,3,"2,205.00",30,Completed,Store B,Islamabad,Card
+ORD-202502-0223,04/02/2025,C0257,KEYBOARD-203,Keyboard,Electronics,2,3520.00,15,Completed,Online,Gujranwala,Cash
+ORD-202502-0224,11/02/2025,C0172,LAMP-102,Desk Lamp,Home,2,"2,450.00",10,Completed,Store C,Peshawar,Wallet
+ORD-202502-0225,2025-02-05,C0144,SHAMPOO-304,Daily Shampoo,Beauty,1,-,10,Completed,Store C,Sialkot,Cash
+ORD-202502-0226,02-04-2025,C0210,SOAP-302,Herbal Soap,Beauty,1,252.00,0,Completed,Online,Multan,Bank Transfer
+ORD-202502-0227,24/02/2025,C0053,LAMP-102,Desk Lamp,Home,2,"Rs 2,695.00",10,Completed,Store A,Rawalpindi,Card
+ORD-202502-0228,11/02/2025,C0007,KEYBOARD-203,Keyboard,Electronics,0,-,5,Completed,Marketplace,Hyderabad,Wallet
+ORD-202502-0229,16/02/2025,C0170,BALL-504,Training Ball,Sports,2,"Rs 1,600.00",0,Completed,Store C,Multan,Wallet
+ORD-202502-0230,06/02/2025,C0352,MUG-101,Ceramic Mug,Home,,Rs 650.00,5,Cancelled,Store A,Lahore,Wallet
+ORD-202502-0231,2025-02-24,C0125,MARKER-403,Marker Set,Stationery,3,490.00,0,Completed,Online,Karachi,Wallet
+ORD-202502-0232,03/02/2025,C0145, lamp-102 ,Desk Lamp,Home,1,"Rs 2,450.00",25,Completed,Store B,Karachi,Card
+ORD-202502-0233,2025-02-09,C0133,BAND-503,Resistance Band,Sports,5,759.00,5,Completed,Store C,Peshawar,Card
+ORD-202502-0234,2025-02-15,C0072,CABLE-201,USB Cable,Electronics,2,472.50,0,Cancelled,Store B,Karachi,Cash
+ORD-202502-0235,24/02/2025,c0216 ,MOUSE-202,Wireless Mouse,electronics ,2,"1,942.50",0,Completed,Store B,Faisalabad,Card
+ORD-202502-0236,17/02/2025,C0262,LAMP-102,Desk Lamp,Home,3,"2,695.00",15,Pending,Store B,Islamabad,Cash
+ORD-202502-0237,10/02/2025,C0131,SERUM-303,Vitamin Serum,Beauty,1,1750.00,10,Completed,Store A,Lahore,Bank Transfer
+ORD-202502-0238,13/02/2025,C0156,LAMP-102,Desk Lamp,Home,4,2450.00,5,Completed,Store A,Multan,Bank Transfer
+ORD-202502-0239,01/02/2025,C0148,LAMP-102,Desk Lamp,Home,-1,"2,695.00",30,Completed,Marketplace,Faisalabad,Card
+ORD-202502-0240,27/02/2025,C0102,MAT-502,Yoga Mat,Sports,4,"2,475.00",30,Completed,Online,Rawalpindi,Wallet
+ORD-202502-0241,07/02/2025,C0208,SOAP-302,Herbal Soap,Beauty,1,Rs 308.00,20,Completed,Marketplace,Rawalpindi,Bank Transfer
+ORD-202502-0242,03/02/2025,C0081,MAT-502,Yoga Mat,Sports,1,"Rs 2,475.00",5,Pending,Online,Gujranwala,Bank Transfer
+ORD-202502-0243,14/02/2025,C0200,KEYBOARD-203,Keyboard,Electronics,2,3200.00,20,Completed,Marketplace,Rawalpindi,Wallet
+ORD-202502-0244,28/02/2025,C0147, notebook-402 ,Notebook,Stationery,5,367.50,20,Completed,Marketplace,Gujranwala,Wallet
+ORD-202502-0245,03/02/2025,C0067,MUG-101,Ceramic Mug,Home,6,Rs 715.00,0,Completed,Online,Lahore,Bank Transfer
+ORD-202502-0246,11/02/2025,C0125,BALL-504,,Sports,3,"Rs 1,600.00",0,Completed,Marketplace,Islamabad,Wallet
+ORD-202502-0247,25/02/2025,,BAND-503,Resistance Band,Sports,1,621.00,15,Completed,Online,Rawalpindi,Wallet
+ORD-202502-0248,01/02/2025,C0233,BALL-504,Training Ball,Sports,1,TBD,10,Completed,Online,Peshawar,Card
+ORD-202502-0249,08/02/2025,C0165,MAT-502,Yoga Mat,Sports,1,3025.00,25,Pending,Online,Multan,Bank Transfer
+ORD-202502-0250,03/02/2025,C0389,LAMP-102,Desk Lamp,Home,4,"Rs 2,450.00",10,Completed,Store A,Multan,Wallet
+ORD-202502-0251,2025-02-10,C0106,CABLE-201,USB Cable,Electronics,3,Rs 450.00,10,Pending,Marketplace,Rawalpindi,Cash
+ORD-202502-0252,2025-02-20,C0033,SHEET-103,Cotton Bedsheet,Home,1,3850.00,25,Pending,Store C,Karachi,Card
+ORD-202502-0253,23/02/2025,C0083,KEYBOARD-203,Keyboard,Electronics,1,"3,200.00",30,Completed,Store A,Peshawar,Wallet
+ORD-202502-0254,04/02/2025,C0267,PEN-401,Ballpoint Pen Pack,stationery ,1,Rs 242.00,10,Pending,Store C,Multan,Wallet
+ORD-202502-0255,14/02/2025,C0196,NOTEBOOK-402,Notebook,Stationery,1,350.00,0,Cancelled,Store A,Hyderabad,Cash
+ORD-202502-0256,12/02/2025,C0174,NOTEBOOK-402,Notebook,Stationery,1,367.50,10,Completed,Marketplace,Peshawar,Card
+ORD-202502-0257,17/02/2025,C0065,TOWEL-104,Bath Towel,Home,1,1045.00,10, COMPLETED,Store B,Multan,Card
+ORD-202502-0258,23/02/2025,C0082,PEN-401,Ballpoint Pen Pack,Stationery,1,Rs 220.00,20,Completed,Store C,Faisalabad,Bank Transfer
+ORD-202502-0259,02-06-2025,C0141,SOAP-302,Herbal Soap,Beauty,4,Rs 280.00,25,Completed, marketplace ,Hyderabad,Bank Transfer
+ORD-202502-0260,13/02/2025,C0020,KEYBOARD-203,Keyboard,Electronics,1,"3,520.00",20,Cancelled,Online,Islamabad,Card
+ORD-202502-0261,2025-02-05,C0160,BOTTLE-501,Sports Bottle,Sports,3,765.00,0,Completed,Online,Multan,Cash
+ORD-202502-0262,2025-02-20,C0081,PEN-401,Ballpoint Pen Pack,Stationery,2,220.00,30,Completed,Marketplace,Karachi,Cash
+ORD-202502-0263,,C0204,FOLDER-404,Document Folder,Stationery,5,Rs 198.00,15,Completed,Store A,Peshawar,Wallet
+ORD-202502-0264,05/02/2025,C0338,NOTEBOOK-402,Notebook,Stationery,,Rs 350.00,5,Completed,Store B,Gujranwala,Wallet
+ORD-202502-0265,01/02/2025,C0153,PEN-401,Ballpoint Pen Pack,Stationery,1,242.00,15,Completed,Marketplace,Faisalabad,Bank Transfer
+ORD-202502-0266,32/13/2025,C0143,CABLE-201,USB Cable,Electronics,1,450.00,10,Pending,Online,Rawalpindi,Card
+ORD-202502-0267,2025-02-13,C0183,MARKER-403,Marker Set,Stationery,0,490.00,0,Completed,Marketplace,Peshawar,Card
+ORD-202502-0268,2025-02-05,C0315,MUG-101, CERAMIC MUG ,home ,3,682.50,30,Completed,Store C,Peshawar,Wallet
+ORD-202502-0269,09/02/2025,C0345,SERUM-303,,Beauty,2,"Rs 1,750.00",10,Completed,Store C,Karachi,Bank Transfer
+ORD-202502-0270,2025-02-11,C0101,BALL-504,Training Ball,Sports,1,-,0,Completed,Online,Faisalabad,Card
+ORD-202502-0271,22/02/2025,C0190,MUG-101,Ceramic Mug,Home,4,585.00,0,Completed,Online,Rawalpindi,Card
+ORD-202502-0272,06/02/2025,C0124,SHAMPOO-304,Daily Shampoo,beauty ,2,Rs 702.00,20,Completed,Store A,,Bank Transfer
+ORD-202502-0273,16/02/2025,C0105,SERUM-303,Vitamin Serum,Beauty,2,"1,925.00",20,Completed,Store B,Lahore,Card
+ORD-202502-0274,19/02/2025,C0290,CREAM-301,Face Cream,Beauty,1,"Rs 1,125.00",10,Completed,Online,Hyderabad,Card
+ORD-202502-0275,04/02/2025,C0136,CREAM-301,Face Cream,Beauty,2,"Rs 1,312.50",0,Completed,Store C,Gujranwala,Bank Transfer
+ORD-202502-0276,16/02/2025,C0021,BOTTLE-501,Sports Bottle,Sports,3,892.50,20,Pending,Marketplace,Gujranwala,Cash
+ORD-202502-0277,28/02/2025,C0027,CREAM-301,Face Cream,Beauty,2,"Rs 1,312.50",0,pending,Online,Lahore,Wallet
+ORD-202502-0278,26/02/2025,C0335,PEN-401,Ballpoint Pen Pack,Stationery,1,TBD,15,Completed,Store A,Karachi,Bank Transfer
+ORD-202502-0279,16/02/2025,C0102,BOTTLE-501,Sports Bottle,Sports,5,765.00,10,Completed,Store B,Hyderabad,Wallet
+ORD-202502-0280,01/02/2025,C0049,MOUSE-202,Wireless Mouse,Electronics,1,"1,665.00",0,Completed,Online,Hyderabad,Bank Transfer
+ORD-202502-0281,25/02/2025,C0126,SOAP-302,Herbal Soap,Beauty,2,252.00,5,Completed,Online,Islamabad,Bank Transfer
+ORD-202502-0282,08/02/2025,C0029,MOUSE-202,Wireless Mouse,Electronics,1,"Rs 1,850.00",10,Completed,Online,Islamabad,Wallet
+ORD-202502-0283,02-05-2025,C0002,PEN-401,Ballpoint Pen Pack,Stationery,1,Rs 220.00,20,Cancelled,Store C,Hyderabad,Cash
+ORD-202502-0284,02-17-2025,C0092,BALL-504, TRAINING BALL ,Sports,6,"Rs 1,600.00",0,Completed,Marketplace,Lahore,Wallet
+ORD-202502-0285,15/02/2025,C0089,BALL-504,Training Ball,Sports,3,1440.00,25,Completed,Online,Multan,Bank Transfer
+ORD-202502-0286,12/02/2025,C0311,BOTTLE-501,Sports Bottle,Sports,3,892.50,5,Completed,Marketplace,Faisalabad,Card
+ORD-202502-0287,18/02/2025,C0312, cream-301 ,Face Cream,Beauty,4,"Rs 1,375.00",0,Completed,Store C,Sialkot,Cash
+ORD-202502-0288,11/02/2025,C0134,PEN-401,Ballpoint Pen Pack,Stationery,2,Rs 220.00,5,,Marketplace,Rawalpindi,Bank Transfer
+ORD-202502-0289,10/02/2025,C0355,KEYBOARD-203,Keyboard,Electronics,4,3200.00,10%,Completed,Store A,,Bank Transfer
+ORD-202502-0290,26/02/2025,C0032,BOTTLE-501,Sports Bottle,Sports,3,850.00,10,Pending,Store B,Gujranwala,Bank Transfer
+ORD-202502-0291,2025-02-03,C0040,MAT-502,Yoga Mat,Sports,2,"2,475.00",15,Completed,Store C,Multan,Bank Transfer
+ORD-202502-0292,04/02/2025,C0106,BAND-503,Resistance Band,Sports,2,Rs 621.00,30,Completed,Store C,Gujranwala,Bank Transfer
+ORD-202502-0293,2025-02-28,C0376,KEYBOARD-203,Keyboard,Electronics,2,3200.00,20,Completed,Store C,Hyderabad,Cash
+ORD-202502-0294,04/02/2025,C0356,NOTEBOOK-402,Notebook,stationery ,3,TBD,5,Completed,Store B,Peshawar,Card
+ORD-202502-0295,25/02/2025,C0347,MAT-502,Yoga Mat,Sports,1,2750.00,20, COMPLETED,Online,Faisalabad,Bank Transfer
+ORD-202502-0296,21/02/2025,C0173,SHAMPOO-304,Daily Shampoo,Beauty,3,Rs 702.00,20,Completed,Online,Islamabad,Cash
+ORD-202502-0297,27/02/2025,C0116,CABLE-201,USB Cable,Electronics,0,495.00,0,Completed,Store B,Gujranwala,Bank Transfer
+ORD-202502-0298,07/02/2025,C0306,TOWEL-104,Bath Towel,Home,1,TBD,30,Completed,Online,Karachi,Cash
+ORD-202502-0299,03/02/2025,C0082,BAND-503,Resistance Band,Sports,2,759.00,0,Completed,Store B,Multan,Bank Transfer
+ORD-202502-0300,19/02/2025,C0032,BOTTLE-501,Sports Bottle,Sports,1,-,5,Completed,Store C,Hyderabad,Cash
+ORD-202502-0242,03/02/2025,C0081,MAT-502,Yoga Mat,Sports,1,"Rs 2,475.00",5,Pending,Online,Gujranwala,Bank Transfer
+ORD-202502-0275,04/02/2025,C0136,CREAM-301,Face Cream,Beauty,2,"Rs 1,312.50",0,Completed,Store C,Gujranwala,Bank Transfer
+ORD-202502-0206,07/02/2025,C0152,MARKER-403,Marker Set,Stationery,6,Rs 490.00,0,Completed,Store C,Rawalpindi,Bank Transfer
